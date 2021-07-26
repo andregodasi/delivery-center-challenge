@@ -1,4 +1,5 @@
 module.exports = {
+  end_of_line:'lf',
   trailingComma: 'all',
   allowParens: 'avoid',
   printWidth: 80,
