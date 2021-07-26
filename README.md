@@ -1,6 +1,8 @@
 <p align="center">
-  <img alt="Delivery center" src="https://user-images.githubusercontent.com/9595529/126956580-7b71fed5-7815-4ea0-9773-04dd5145482a.png" width="160px">
+  <img alt="Delivery center" width="64px" src="https://user-images.githubusercontent.com/9595529/126956580-7b71fed5-7815-4ea0-9773-04dd5145482a.png" width="160px">
 </p>
+
+<h1 align="center">Delivery Center</h1>
 
 <h1 align="center">
     <img alt="Challenge" src="https://user-images.githubusercontent.com/9595529/126956227-8fbba782-1b6f-4306-8829-c97f305fcf7e.png" />
