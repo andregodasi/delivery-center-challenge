@@ -1,14 +1,23 @@
 import React from 'react';
-import { Button } from 'antd';
-import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+
+import AppProvider from './hooks';
+
+import GlobaStyle from './styles/global';
+
+import Routes from './routes';
+
+import Header from './components/Header';
 
 const App: React.FC = () => {
   return (
-    <div className='App'>
-      <Button type='primary' shape='round'>
-        TESTE
-      </Button>
-    </div>
+    <Router>
+      <AppProvider>
+        <Header />
+        <Routes />
+      </AppProvider>
+      <GlobaStyle />
+    </Router>
   );
 };
 
