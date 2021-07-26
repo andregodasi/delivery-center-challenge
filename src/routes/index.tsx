@@ -11,5 +11,4 @@ const Routes: React.FC = () => (
     <Route path='/order/:id' exact component={Order} />
   </Switch>
 );
-
 export default Routes;
