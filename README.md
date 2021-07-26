@@ -1,46 +1,67 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Delivery center" src="https://user-images.githubusercontent.com/9595529/126956580-7b71fed5-7815-4ea0-9773-04dd5145482a.png" width="160px">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Challenge" src="https://user-images.githubusercontent.com/9595529/126956227-8fbba782-1b6f-4306-8829-c97f305fcf7e.png" />
+</h1>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+## 🧪 Tecnologias
 
-### `yarn start`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [React](https://reactjs.org)
+- [Ant Design](https://ant.design/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🚀 Como executar
 
-### `yarn test`
+Clone o projeto e acesse a pasta do mesmo.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+$ git clone https://github.com/andregodasi/delivery-center-challenge
+$ cd delivery-center-challenge
+```
 
-### `yarn build`
+Para iniciá-lo, siga os passos abaixo:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Instalar as dependências
+$ yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Iniciar o projeto
+$ yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-### `yarn eject`
+## 💻 Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Este projeto é um desafio proposto pela empresa **[Delivery Center](https://www.deliverycenter.com)** para avaliar conhecimentos em front-end.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A descrição e maiores detalhes do desafio você pode entrontrar **[AQUI](https://github.com/deliverycenter/test-dev-frontend-react)**.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📝 License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🦸 Autor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://www.linkedin.com/in/andre-godasi/">
+ <img style="border-radius: 50%;" src="https://media-exp3.licdn.com/dms/image/C5603AQHXCZ6gF0LN5Q/profile-displayphoto-shrink_200_200/0/1517534813963?e=1629936000&v=beta&t=jkbQFZTxcEw1c5oTArG5A5-gLqrUmCjaK-9GfU0ejWc" width="100px;" alt=""/>
+ <br />
+ <sub><b>André Gonçalves</b></sub></a> <a href="https://www.linkedin.com/in/andre-godasi/" title="André Gonçalves">🚀</a>
+ <br />
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por André Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/andre-godasi/)
