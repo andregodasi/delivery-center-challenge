@@ -1,5 +1,5 @@
 module.exports = {
-  endOfLine: 'lf',
+  end_of_line:'lf',
   trailingComma: 'all',
   allowParens: 'avoid',
   printWidth: 80,
